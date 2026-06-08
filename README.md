@@ -43,7 +43,7 @@ A full-stack SaaS platform where candidates upload their resume, get AI-generate
 - 🔐 **Firebase Authentication** + RESTful APIs
 - 🚀 Deployed on **Render** using the MERN stack
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/AceBot)
 
 ---
 
@@ -55,7 +55,7 @@ A MERN-based video platform supporting uploads, streaming, likes, and subscripti
 - 📡 Scalable REST APIs with responsive UI
 - ⚡ Efficient state management with Redux
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/VidSphere)
 
 ---
 
@@ -67,7 +67,7 @@ A fully deployed social media platform with complete CRUD, image uploads, likes,
 - 🌍 Deployed across **Vercel** (frontend) + **Render** (backend)
 - 🛠️ Solved real-world deployment challenges: CORS, env vars, file uploads
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18) [![Live](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=vercel)](https://github.com/ShivamBytes18)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/POSTNET) [![Live](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=vercel)](https://github.com/ShivamBytes18/POSTNET)
 
 ---
 
@@ -136,7 +136,7 @@ A fully deployed social media platform with complete CRUD, image uploads, likes,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamBytes18&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-six.vercel.app?user=ShivamBytes18&theme=tokyonight&hide_border=true"/>
 
 </div>
 

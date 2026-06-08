@@ -49,11 +49,14 @@ A full-stack SaaS platform where candidates upload their resume, get AI-generate
 
 ### 📺 VidSphere — Video Streaming Platform
 
-A MERN-based video platform supporting uploads, streaming, likes, and subscriptions.
+A full-featured MERN-based video platform built for seamless content sharing and discovery — supporting video uploads, streaming, likes, and subscriptions.
 
-- 🔐 Secure **JWT authentication** + token-based authorization
-- 📡 Scalable REST APIs with responsive UI
-- ⚡ Efficient state management with Redux
+- 🔐 Secure **JWT authentication** + token-based authorization for protected routes
+- 📡 Scalable **REST APIs** with clean separation of concerns (MVC architecture)
+- 📤 Video upload pipeline with file handling and cloud storage integration
+- 👍 Social features: likes, subscriptions, and user channel management
+- 🎨 Responsive UI with efficient **Redux** state management
+- 🛡️ Authorization middleware to secure private routes and user-specific actions
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/VidSphere)
 
@@ -136,7 +139,7 @@ A fully deployed social media platform with complete CRUD, image uploads, likes,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-six.vercel.app?user=ShivamBytes18&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamBytes18&theme=tokyonight"/>
 
 </div>
 

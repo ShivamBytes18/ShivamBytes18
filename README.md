@@ -148,6 +148,8 @@ I'm actively looking for **internship** and **SDE** opportunities. If you're bui
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-upadhyay-0811182aa/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiv230104031@iiitmanipur.ac.in)
 
+📧 **Email:** [shiv230104031@iiitmanipur.ac.in](mailto:shiv230104031@iiitmanipur.ac.in)
+
 </div>
 
 <div align="center">

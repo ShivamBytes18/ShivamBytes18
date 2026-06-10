@@ -34,55 +34,93 @@ const shivam = {
 
 ## 🏗️ Featured Projects
 
-### 🤖 AceBot — AI-Powered Interview Preparation SaaS
-> 🔨 *Currently in active development*
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 AceBot &nbsp;—&nbsp; AI-Powered Interview Preparation SaaS
+
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI-Claude%20%2F%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Payments](https://img.shields.io/badge/Payments-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 AceBot is a full-stack SaaS platform where candidates upload their **resume (PDF)**, receive AI-generated role-specific questions, and practice live **Technical & HR rounds** with an AI interviewer. The AI analyzes responses in real-time, scores answers out of 10, and renders a rich feedback dashboard with **graphical performance breakdowns** and point-wise improvement insights.
 
-**What makes it stand out:**
-- 📄 **Resume Upload (PDF)** — AI reads your resume to generate questions tailored to your exact skills and experience
-- 🧠 **Real-time AI Scoring** — every answer scored out of 10 with point-wise improvement insights
-- 📊 **Rich Feedback Dashboard** — graphical performance breakdowns across Technical and HR rounds
-- 💳 **Credit-based Monetization** — engineered Razorpay payment integration for session credit purchases
-- 🔐 **Firebase Authentication** — secure login/signup with protected RESTful API routes
-- 🚀 **Production Deployment** — full MERN stack hosted on **Render**
+| ✦ Feature | Details |
+|:---|:---|
+| 📄 **Resume Upload (PDF)** | AI reads your resume to generate questions tailored to your exact skills and experience |
+| 🧠 **Real-time AI Scoring** | Every answer scored out of 10 with point-wise improvement insights |
+| 📊 **Rich Feedback Dashboard** | Graphical performance breakdowns across Technical and HR rounds |
+| 💳 **Credit-based Monetization** | Engineered Razorpay payment integration for session credit purchases |
+| 🔐 **Firebase Authentication** | Secure login/signup with protected RESTful API routes |
+| 🚀 **Production Deployment** | Full MERN stack hosted on Render |
 
-> Solves the core problem most candidates face: *"I have no idea how I'm actually performing until I'm already in the interview."*
+> 💡 *Solves the core problem most candidates face: "I have no idea how I'm actually performing until I'm already in the interview."*
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/AceBot)
+[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/AceBot)
 
----
+</td>
+</tr>
+</table>
 
-### 📺 VidSphere — Video Streaming Platform
+<table>
+<tr>
+<td width="100%" valign="top">
 
-A MERN-based video platform supporting video uploads, streaming, likes, and subscriptions. Built with a focus on secure authentication, clean API design, and a responsive user experience.
+### 📺 VidSphere &nbsp;—&nbsp; Video Streaming Platform
 
-**Core highlights:**
-- 🔐 **JWT Authentication** — secure token-based auth with protected route middleware and authorization checks
-- 📡 **Scalable REST APIs** — clean, well-structured endpoints with proper separation of concerns
-- 📤 **Video Upload & Streaming** — end-to-end pipeline from client upload to cloud-stored CDN delivery
-- 👍 **Social Features** — likes, dislikes, subscriptions, and user channel management
-- 🎨 **Responsive UI** — efficient state management keeping the frontend fast and consistent
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Auth](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/VidSphere)
+A MERN-based video platform supporting video uploads, streaming, likes, and subscriptions. Built with a focus on secure authentication, clean API design, MongoDB aggregation pipelines, and a responsive user experience.
 
----
+| ✦ Feature | Details |
+|:---|:---|
+| 🔐 **JWT Authentication** | Secure token-based auth with protected route middleware and authorization checks |
+| 📡 **Scalable REST APIs** | Clean, well-structured endpoints with proper separation of concerns |
+| 📤 **Video Upload & Streaming** | End-to-end pipeline from client upload to cloud-stored CDN delivery |
+| 🗄️ **Aggregation Pipelines** | MongoDB aggregation pipelines for feed generation, watch history, and channel stats |
+| 👍 **Social Features** | Likes, dislikes, subscriptions, and user channel management |
+| 🎨 **Responsive UI** | Efficient Redux state management keeping the frontend fast and consistent |
 
-### 🌐 POSTNET — MERN Stack Social Media Platform
+[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/VidSphere)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🌐 POSTNET &nbsp;—&nbsp; MERN Stack Social Media Platform
+
+![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Frontend](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 A fully built and deployed social media platform featuring JWT authentication, CRUD operations, image uploads, likes, and comments. Integrated Cloudinary for media management, developed secure REST APIs, and resolved real deployment challenges involving CORS, environment variables, and file uploads across a split Vercel + Render deployment.
 
-**What's inside:**
-- 🔑 **JWT Authentication** — secure login, registration, and session management with protected API routes
-- 🖼️ **Cloudinary Media Management** — image uploads with CDN hosting and client-side preview
-- ❤️ **Likes & Comments** — full engagement system with real-time UI updates
-- ✏️ **Full CRUD** — create, edit, delete posts with strict user ownership enforcement
-- 🌍 **Split Deployment** — Vercel (React frontend) + Render (Node/Express backend) — tackled CORS, env vars, and multipart uploads across origins
-- 📱 **Responsive Design** — consistent UX across desktop and mobile
+| ✦ Feature | Details |
+|:---|:---|
+| 🔑 **JWT Authentication** | Secure login, registration, and session management with protected API routes |
+| 🖼️ **Cloudinary Media Management** | Image uploads with CDN hosting and client-side preview |
+| ❤️ **Likes & Comments** | Full engagement system with real-time UI updates |
+| ✏️ **Full CRUD** | Create, edit, delete posts with strict user ownership enforcement |
+| 🌍 **Split Deployment** | Vercel (React frontend) + Render (Node/Express backend) — tackled CORS, env vars, and multipart uploads across origins |
+| 📱 **Responsive Design** | Consistent UX across desktop and mobile |
 
-> A real shipped product — not just something that works on localhost.
+> 💡 *A real shipped product — not just something that works on localhost.*
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/POSTNET)&nbsp;[![Live](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://postnet.vercel.app)
+[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/POSTNET)&nbsp;&nbsp;[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logoColor=white)](https://postnet.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -131,7 +169,7 @@ A fully built and deployed social media platform featuring JWT authentication, C
 ## 🏆 Achievements
 
 | 🎖️ Achievement | Details |
-|---|---|
+|:---|:---|
 | 🥇 **NPTEL ML — Top 1%** | IIT Madras · Score: 76% · Assignments: 25/25 · Among 8,354 candidates |
 | 🏛️ **NPTEL COA** | Computer Organization & Architecture — IIT Madras |
 | 💻 **LeetCode 150+** | Consistent DSA practice across arrays, trees, graphs & DP |
@@ -144,14 +182,15 @@ A fully built and deployed social media platform featuring JWT authentication, C
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamBytes18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamBytes18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamBytes18&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamBytes18&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ShivamBytes18&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -172,14 +211,14 @@ I'm actively looking for **internship** and **SDE** opportunities. If you're bui
 <a href="https://www.linkedin.com/in/shivam-upadhyay-0811182aa/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:shiv230104031@iiitmanipur.ac.in">
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-📧 **Email:** [shiv230104031@iiitmanipur.ac.in](mailto:shiv230104031@iiitmanipur.ac.in)
+📧 **shiv230104031@iiitmanipur.ac.in**
 
 </div>
 

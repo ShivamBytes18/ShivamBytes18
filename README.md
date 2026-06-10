@@ -3,18 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivam%20Upadhyay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Integration&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <p>
-  <a href="https://www.linkedin.com/in/shivam-upadhyay-0811182aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ShivamBytes18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/_Shivam18/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:shiv230104031@iiitmanipur.ac.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/shivam-upadhyay-0811182aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/ShivamBytes18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://leetcode.com/u/_Shivam18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+  <a href="mailto:shiv230104031@iiitmanipur.ac.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ShivamBytes18&label=Profile+Views&color=302b63&style=flat" alt="Profile Views" />
@@ -43,17 +35,19 @@ const shivam = {
 ## 🏗️ Featured Projects
 
 ### 🤖 AceBot — AI-Powered Interview Preparation SaaS
-> *Currently in active development*
+> 🔨 *Currently in active development*
 
-A full-stack SaaS platform where candidates upload their resume, get AI-generated role-specific questions, and practice live Technical & HR rounds with an AI interviewer.
+AceBot is a full-stack SaaS platform where candidates upload their **resume (PDF)**, receive AI-generated role-specific questions, and practice live **Technical & HR rounds** with an AI interviewer. The AI analyzes responses in real-time, scores answers out of 10, and renders a rich feedback dashboard with **graphical performance breakdowns** and point-wise improvement insights.
 
-| Feature | Detail |
-|---|---|
-| 🧠 AI Analysis | Real-time answer scoring out of 10 |
-| 📊 Dashboard | Graphical performance breakdowns |
-| 💳 Monetization | Credit-based system via **Razorpay** |
-| 🔐 Auth | Firebase Authentication + RESTful APIs |
-| 🚀 Deployment | MERN stack on **Render** |
+**What makes it stand out:**
+- 📄 **Resume Upload (PDF)** — AI reads your resume to generate questions tailored to your exact skills and experience
+- 🧠 **Real-time AI Scoring** — every answer scored out of 10 with point-wise improvement insights
+- 📊 **Rich Feedback Dashboard** — graphical performance breakdowns across Technical and HR rounds
+- 💳 **Credit-based Monetization** — engineered Razorpay payment integration for session credit purchases
+- 🔐 **Firebase Authentication** — secure login/signup with protected RESTful API routes
+- 🚀 **Production Deployment** — full MERN stack hosted on **Render**
+
+> Solves the core problem most candidates face: *"I have no idea how I'm actually performing until I'm already in the interview."*
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/AceBot)
 
@@ -61,72 +55,61 @@ A full-stack SaaS platform where candidates upload their resume, get AI-generate
 
 ### 📺 VidSphere — Video Streaming Platform
 
-A full-featured MERN-based video platform built for seamless content sharing and discovery.
+A MERN-based video platform supporting video uploads, streaming, likes, and subscriptions. Built with a focus on secure authentication, clean API design, and a responsive user experience.
 
-| Feature | Detail |
-|---|---|
-| 🔐 Auth | JWT authentication + token-based authorization |
-| 📡 APIs | Scalable REST APIs with MVC architecture |
-| 📤 Uploads | Video pipeline with cloud storage integration |
-| 👍 Social | Likes, subscriptions, channel management |
-| 🎨 Frontend | Responsive UI with Redux state management |
+**Core highlights:**
+- 🔐 **JWT Authentication** — secure token-based auth with protected route middleware and authorization checks
+- 📡 **Scalable REST APIs** — clean, well-structured endpoints with proper separation of concerns
+- 📤 **Video Upload & Streaming** — end-to-end pipeline from client upload to cloud-stored CDN delivery
+- 👍 **Social Features** — likes, dislikes, subscriptions, and user channel management
+- 🎨 **Responsive UI** — efficient state management keeping the frontend fast and consistent
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/VidSphere)
 
 ---
 
-### 🌐 POSTNET — Full-Stack Social Media Platform
+### 🌐 POSTNET — MERN Stack Social Media Platform
 
-A fully deployed social media platform with complete CRUD, image uploads, likes, and comments.
+A fully built and deployed social media platform featuring JWT authentication, CRUD operations, image uploads, likes, and comments. Integrated Cloudinary for media management, developed secure REST APIs, and resolved real deployment challenges involving CORS, environment variables, and file uploads across a split Vercel + Render deployment.
 
-| Feature | Detail |
-|---|---|
-| 🔑 Auth | JWT + Cloudinary media management |
-| 🌍 Deployed | Vercel (frontend) + Render (backend) |
-| 🛠️ Challenges | CORS handling, env vars, file uploads |
+**What's inside:**
+- 🔑 **JWT Authentication** — secure login, registration, and session management with protected API routes
+- 🖼️ **Cloudinary Media Management** — image uploads with CDN hosting and client-side preview
+- ❤️ **Likes & Comments** — full engagement system with real-time UI updates
+- ✏️ **Full CRUD** — create, edit, delete posts with strict user ownership enforcement
+- 🌍 **Split Deployment** — Vercel (React frontend) + Render (Node/Express backend) — tackled CORS, env vars, and multipart uploads across origins
+- 📱 **Responsive Design** — consistent UX across desktop and mobile
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/POSTNET)&nbsp;[![Live](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=vercel)](https://postnet.vercel.app)
+> A real shipped product — not just something that works on localhost.
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ShivamBytes18/POSTNET)&nbsp;[![Live](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://postnet.vercel.app)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>Languages</b></summary>
-<br>
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Frontend</b></summary>
-<br>
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Backend & Databases</b></summary>
-<br>
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</details>
-
-<details>
-<summary><b>Tools, Platforms & AI</b></summary>
-<br>
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -134,12 +117,14 @@ A fully deployed social media platform with complete CRUD, image uploads, likes,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+
+**AI & APIs**
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
-</details>
 
 ---
 
@@ -149,8 +134,8 @@ A fully deployed social media platform with complete CRUD, image uploads, likes,
 |---|---|
 | 🥇 **NPTEL ML — Top 1%** | IIT Madras · Score: 76% · Assignments: 25/25 · Among 8,354 candidates |
 | 🏛️ **NPTEL COA** | Computer Organization & Architecture — IIT Madras |
-| 💻 **LeetCode 150+** | Consistent DSA practice in problem solving |
-| 🎓 **GPA: 8.2** | B.Tech — IIIT Manipur (2023–2027) |
+| 💻 **LeetCode 150+** | Consistent DSA practice across arrays, trees, graphs & DP |
+| 🎓 **GPA: 8.2** | B.Tech CSE — IIIT Manipur (2023–2027) |
 | 🔐 **Ethical Hacking Intern** | C-DAC Noida 2024 · Network security & vulnerability assessment |
 
 ---

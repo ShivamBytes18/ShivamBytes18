@@ -40,7 +40,7 @@ const shivam = {
 
 ### 🤖 AceBot &nbsp;—&nbsp; AI-Powered Interview Preparation SaaS
 
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![AI](https://img.shields.io/badge/AI-Claude%20%2F%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Payments](https://img.shields.io/badge/Payments-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
@@ -58,7 +58,7 @@ AceBot is a full-stack SaaS platform where candidates upload their **resume (PDF
 
 > 💡 *Solves the core problem most candidates face: "I have no idea how I'm actually performing until I'm already in the interview."*
 
-[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/AceBot)
+[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/AceBot)&nbsp;&nbsp;[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logoColor=white)](https://acebot-client.onrender.com/)
 
 </td>
 </tr>

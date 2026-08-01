@@ -4,6 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/shivam-upadhyay-0811182aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://portfolio-3v4p.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/ShivamBytes18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://leetcode.com/u/_Shivam18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
   <a href="mailto:shiv230104031@iiitmanipur.ac.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -70,7 +71,7 @@ AceBot is a full-stack SaaS platform where candidates upload their **resume (PDF
 
 ### 📺 VidSphere &nbsp;—&nbsp; Video Streaming Platform
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Auth](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Storage](https://img.shields.io/badge/Storage-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
@@ -86,7 +87,7 @@ A MERN-based video platform supporting video uploads, streaming, likes, and subs
 | 👍 **Social Features** | Likes, dislikes, subscriptions, and user channel management |
 | 🎨 **Responsive UI** | Efficient Redux state management keeping the frontend fast and consistent |
 
-[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/VidSphere)
+[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/VidSphere)&nbsp;&nbsp;[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logoColor=white)](https://vidsphere-front.onrender.com/)
 
 </td>
 </tr>
@@ -172,7 +173,7 @@ A fully built and deployed social media platform featuring JWT authentication, C
 |:---|:---|
 | 🥇 **NPTEL ML — Top 1%** | IIT Madras · Score: 76% · Assignments: 25/25 · Among 8,354 candidates |
 | 🏛️ **NPTEL COA** | Computer Organization & Architecture — IIT Madras |
-| 💻 **LeetCode 150+** | Consistent DSA practice across arrays, trees, graphs & DP |
+| 💻 **LeetCode 220+** | Consistent DSA practice across arrays, trees, graphs & DP |
 | 🎓 **GPA: 8.2** | B.Tech CSE — IIIT Manipur (2023–2027) |
 | 🔐 **Ethical Hacking Intern** | C-DAC Noida 2024 · Network security & vulnerability assessment |
 
@@ -210,6 +211,10 @@ I'm actively looking for **internship** and **SDE** opportunities. If you're bui
 
 <a href="https://www.linkedin.com/in/shivam-upadhyay-0811182aa/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-3v4p.onrender.com/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:shiv230104031@iiitmanipur.ac.in">

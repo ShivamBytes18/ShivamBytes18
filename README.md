@@ -176,9 +176,8 @@ A fully built and deployed social media platform featuring JWT authentication, C
 | 💻 **LeetCode 350+** | Consistent DSA practice across arrays, trees, graphs & DP |
 | 💻 **LeetCode Rating 1500+** | Consistent practice and test at LeetCode Contests |
 | 🎓 **GPA: 8.2** | B.Tech CSE — IIIT Manipur (2023–2027) |
-| 🏛️ **NPTEL COA** | Computer Organization & Architecture — IIT Madras |
-| 🔐 **Full Stack Developer Intern** | Decode Labs | Build Acebot |
-| 🔐 ** Intern** | C-Dac Noida | Build and Learned about Production Levels Projects |
+| 🔐 **Full Stack Developer Intern** | Decode Labs - Build Acebot Project and Learned About AI Integration|
+| 🔐 ** Intern** | C-Dac Noida - Build and Learned about Production Levels Projects |
 
 ---
 

@@ -21,7 +21,7 @@
 ```js
 const shivam = {
   role:      "Full-Stack Developer & B.Tech Student @ IIIT Manipur (2023–2027)",
-  stack:     ["MERN", "REST APIs", "GenAI Integration", "SaaS Architecture"],
+  stack:     ["MERN", "Python", "REST APIs", "GenAI & RAG", "SaaS Architecture"],
   building:  "AceBot — AI-Powered Interview Prep SaaS",
   focus:     ["Internships", "SDE Roles", "Production-Ready Projects"],
   gpa:       8.2,
@@ -29,7 +29,7 @@ const shivam = {
 };
 ```
 
-> 🚀 I build **scalable full-stack products** — from authentication flows to payment systems — and actively integrate **Generative AI** into real-world apps. Currently open to **internship and SDE opportunities**.
+> 🚀 I build **scalable full-stack products** — from authentication flows to payment systems — and integrate **Generative AI** (LLM APIs, RAG pipelines, LangChain) into real-world apps. Currently open to **internship and SDE opportunities**.
 
 ---
 
@@ -69,6 +69,34 @@ AceBot is a full-stack SaaS platform where candidates upload their **resume (PDF
 <tr>
 <td width="100%" valign="top">
 
+### 📄 AI Document Assistant &nbsp;—&nbsp; Gemini RAG Chatbot
+
+![Stack](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-FF6446?style=flat-square)
+![UI](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+A Retrieval-Augmented Generation (RAG) chatbot that answers questions from your own documents. It runs a complete pipeline — parsing, chunking, embeddings, vector storage and semantic retrieval — and checks answers against the retrieved context before returning them.
+
+| ✦ Feature | Details |
+|:---|:---|
+| 🔄 **End-to-End RAG Pipeline** | Document parsing, chunking, embeddings, and vector storage with ChromaDB |
+| 🎯 **MMR Semantic Retrieval** | Maximal Marginal Relevance retrieval (k=5, fetch_k=20) to cut redundant context |
+| ✅ **Output Validation** | Grounding checks that compare answers against the retrieved context |
+| 📈 **Monitoring** | Latency and token logging to track answer quality and cost |
+| 📁 **Multi-format Support** | PDF, DOCX, CSV, XLSX, PPTX, TXT and HTML documents |
+
+[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/AI-Document-Assistant)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
 ### 📺 VidSphere &nbsp;—&nbsp; Video Streaming Platform
 
 ![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
@@ -93,36 +121,6 @@ A MERN-based video platform supporting video uploads, streaming, likes, and subs
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 🌐 POSTNET &nbsp;—&nbsp; MERN Stack Social Media Platform
-
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Frontend](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-A fully built and deployed social media platform featuring JWT authentication, CRUD operations, image uploads, likes, and comments. Integrated Cloudinary for media management, developed secure REST APIs, and resolved real deployment challenges involving CORS, environment variables, and file uploads across a split Vercel + Render deployment.
-
-| ✦ Feature | Details |
-|:---|:---|
-| 🔑 **JWT Authentication** | Secure login, registration, and session management with protected API routes |
-| 🖼️ **Cloudinary Media Management** | Image uploads with CDN hosting and client-side preview |
-| ❤️ **Likes & Comments** | Full engagement system with real-time UI updates |
-| ✏️ **Full CRUD** | Create, edit, delete posts with strict user ownership enforcement |
-| 🌍 **Split Deployment** | Vercel (React frontend) + Render (Node/Express backend) — tackled CORS, env vars, and multipart uploads across origins |
-| 📱 **Responsive Design** | Consistent UX across desktop and mobile |
-
-> 💡 *A real shipped product — not just something that works on localhost.*
-
-[![View Repo](https://img.shields.io/badge/▶%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamBytes18/POSTNET)&nbsp;&nbsp;[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logoColor=white)](https://postnet.vercel.app)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -130,9 +128,10 @@ A fully built and deployed social media platform featuring JWT authentication, C
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
@@ -146,7 +145,23 @@ A fully built and deployed social media platform featuring JWT authentication, C
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+
+**Python & AI / GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-412991?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-302b63?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-FF6446?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents_%26_Tool_Calling-24243e?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Tools & Platforms**
 
@@ -157,12 +172,6 @@ A fully built and deployed social media platform featuring JWT authentication, C
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
-**AI & APIs**
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
 ---
@@ -173,11 +182,11 @@ A fully built and deployed social media platform featuring JWT authentication, C
 |:---|:---|
 | 🥇 **NPTEL ML — Top 1%** | IIT Madras · Score: 76% · Assignments: 25/25 · Among 8,354 candidates |
 | 🏛️ **NPTEL COA** | Computer Organization & Architecture — IIT Madras |
-| 💻 **LeetCode 350+** | Consistent DSA practice across arrays, trees, graphs & DP |
-| 💻 **LeetCode Rating 1500+** | Consistent practice and test at LeetCode Contests |
-| 🎓 **GPA: 8.2** | B.Tech CSE — IIIT Manipur (2023–2027) |
-| 🔐 **Full Stack Developer Intern** | Decode Labs - Build Acebot Project and Learned About AI Integration|
-| 🔐 ** Intern** | C-Dac Noida - Build and Learned about Production Levels Projects |
+| 💻 **400+ DSA Problems** | LeetCode, GFG & Codeforces — arrays, trees, graphs & DP |
+| 📈 **Contest Ratings** | LeetCode max rating 1500 · Codeforces max rating 1208 (Pupil) |
+| 🎓 **CPI: 8.2 / 10** | B.Tech ECE (VLSI) — IIIT Manipur (2023–2027) |
+| 💼 **Full Stack Development Intern** | Decode Labs — Built AceBot and learned AI integration |
+| 🔐 **Ethical Hacking Intern** | C-DAC Noida — Network security, vulnerability assessment and password auditing fundamentals |
 
 ---
 
